@@ -7,6 +7,8 @@ public class LockedMe {
         System.out.println("|-----------------------|");
         System.out.println("|Welcome to LockedMe.com|");
         System.out.println("|-----------------------|");
+        System.out.println("|Dev: Minh Dau Ba Nhat  |");
+        System.out.println("|-----------------------|");
 
         Scanner sc = new Scanner(System.in);
         List<String> fileList = new ArrayList<>();
